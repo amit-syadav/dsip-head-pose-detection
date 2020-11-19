@@ -1,4 +1,4 @@
-Add a jpg file test.jpg in same directory as this
+##Add a jpg file test.jpg in same directory as this
 
 Steps:
 
