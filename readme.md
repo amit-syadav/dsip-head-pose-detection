@@ -1,6 +1,6 @@
-##Add a jpg file test.jpg in same directory as this
+# Add a jpg file test.jpg in same directory as this
 
-Steps:
+# Steps:
 
 #Using pip
 pip install opencv-python
