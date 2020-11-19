@@ -1,7 +1,6 @@
 .git/
 .vscode/
-models/
-Proctoring-AI/
+.venv/
 test.jpg
 test-result.jpg
 my-results-folder/
